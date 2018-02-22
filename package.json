@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/scranston24/bamazon/issues"
   },
-  "homepage": "https://github.com/scranston24/bamazon#readme"
+  "homepage": "https://github.com/scranston24/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0"
+  }
 }
